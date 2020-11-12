@@ -1,8 +1,6 @@
 # Automatic-Essay-Grading-System
 
 
-# Amazon Musical Instruments Reviews Multiclass Classification
-
 
 In this project, I have implemented Neural Network and Random Forest classification algorithm in order to grade essay. 
 
