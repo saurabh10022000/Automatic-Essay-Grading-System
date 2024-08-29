@@ -1,7 +1,3 @@
-Here's a README section for your Automated Essay Grading System project to upload on GitHub:
-
----
-
 # Automated Essay Grading System
 
 This project aims to develop an Automated Essay Grading (AEG) system using machine learning techniques. The system is designed to assist educators by automating the grading process, providing a consistent and efficient way to evaluate written essays.
